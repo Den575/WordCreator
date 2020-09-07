@@ -13,5 +13,7 @@ namespace WordCreator.Models
         public string Computer { get; set; }
         public string City { get; set; }
         public string ServiceTag { get; set; }
+
+        public DateTime Time { get; set; }
     }
 }

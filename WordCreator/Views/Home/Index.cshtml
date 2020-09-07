@@ -15,50 +15,56 @@
 <body>
 
     <div class="container">
-        <h2 class="text-center">DC</h2><br>
-        <form class="form-horizontal" method="post" asp-action="Index">
-            <div class="form-group">
-                <label class="control-label col-sm-2" asp-for="Name">Name:</label>
-                <div class="col-sm-10">
-                    <input type="text" class="form-control" asp-for="Name" placeholder="Enter name">
-                </div>
-            </div>
-            <div class="form-group">
-                <label class="control-label col-sm-2" asp-for="Surname">Surname:</label>
-                <div class="col-sm-10">
-                    <input type="text" class="form-control" asp-for="Surname" placeholder="Enter surname" name="pwd">
-                </div>
-            </div>
-            <div class="form-group">
-                <label class="control-label col-sm-2" asp-for="Position" >Position:</label>
-                <div class="col-sm-10">
-                    <input type="text" class="form-control" asp-for="Position" placeholder="Enter position">
-                </div>
-            </div>
-            <div class="form-group">
-                <label class="control-label col-sm-2" asp-for="Computer">Computer:</label>
-                <div class="col-sm-10">
-                    <input type="text" class="form-control" asp-for="Computer" placeholder="Enter computer model">
-                </div>
-            </div>
-            <div class="form-group">
-                <label class="control-label col-sm-2" asp-for="City">City:</label>
-                <div class="col-sm-10">
-                    <input type="text" class="form-control" asp-for="City" placeholder="Enter city">
-                </div>
-            </div>
-            <div class="form-group">
-                <label class="control-label col-sm-2" asp-for="ServiceTag">Serice tag:</label>
-                <div class="col-sm-10">
-                    <input type="text" class="form-control" asp-for="ServiceTag" placeholder="Enter service tag">
-                </div>
-            </div>
-            <div class="form-group">
-                <div class="col-sm-offset-2 col-sm-10">
-                    <button type="submit" class="btn btn-default">Create</button>
-                </div>
-            </div>
-        </form>
+        <h2 class="text-center">Document Creator</h2><br>
+                                       <form class="form-horizontal" method="post" asp-action="Index">
+                                           <div class="form-group">
+                                               <label class="control-label col-sm-2" asp-for="Name">Name:</label>
+                                               <div class="col-sm-10">
+                                                   <input type="text" class="form-control" asp-for="Name" placeholder="Enter name">
+                                               </div>
+                                           </div>
+                                           <div class="form-group">
+                                               <label class="control-label col-sm-2" asp-for="Surname">Surname:</label>
+                                               <div class="col-sm-10">
+                                                   <input type="text" class="form-control" asp-for="Surname" placeholder="Enter surname" name="pwd">
+                                               </div>
+                                           </div>
+                                           <div class="form-group">
+                                               <label class="control-label col-sm-2" asp-for="Position">Position:</label>
+                                               <div class="col-sm-10">
+                                                   <input type="text" class="form-control" asp-for="Position" placeholder="Enter position">
+                                               </div>
+                                           </div>
+                                           <div class="form-group">
+                                               <label class="control-label col-sm-2" asp-for="Computer">Computer:</label>
+                                               <div class="col-sm-10">
+                                                   <input type="text" class="form-control" asp-for="Computer" placeholder="Enter computer model">
+                                               </div>
+                                           </div>
+                                           <div class="form-group">
+                                               <label class="control-label col-sm-2" asp-for="City">City:</label>
+                                               <div class="col-sm-10">
+                                                   <input type="text" class="form-control" asp-for="City" placeholder="Enter city">
+                                               </div>
+                                           </div>
+                                           <div class="form-group">
+                                               <label class="control-label col-sm-2" asp-for="ServiceTag">Serice tag:</label>
+                                               <div class="col-sm-10">
+                                                   <input type="text" class="form-control" asp-for="ServiceTag" placeholder="Enter service tag">
+                                               </div>
+                                           </div>
+                                               <div class="form-group">
+                                                   <label class="control-label col-sm-2" asp-for="Time">Enter date:</label>
+                                                   <div class="col-sm-10">
+                                                       <input type="date" asp-for="Time" class="form-control">
+                                                   </div>
+                                               </div>
+                                           <div class="form-group">
+                                               <div class="col-sm-offset-2 col-sm-10">
+                                                   <button type="submit" class="btn btn-primary">Create</button>
+                                               </div>
+                                           </div>
+                                       </form>
     </div>
 
 </body>

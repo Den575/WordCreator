@@ -1,14 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.IO;
 
 namespace WordCreator.Models
 {
     public class CreateTextDocument
     {
-        using(StreamWriter sw = new StreamWriter()){
 
+        public void CreateDocument(User user)
+        {
+            using(StreamWriter sw = new StreamWriter("Files/test.txt"))
+            {
+                sw.WriteLine(user.Name);
+                sw.WriteLine(user.Surname);
+                sw.WriteLine(user.Time);
+            }
+        }
+        
+        
     }
 }
