@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SawPWrWn5VpKu6ncAZoyz1MNh0AYM+seVuXhCGySB68I7a7EiDeMOWhpowT2HpznDwOeGYfN1PQPHpdO3Ny6Hw==",
+  "dgSpecHash": "o66W0R/yGVAGg+zB9Ar7Fo2Nlzfnkb/HBWOPyKcOczuSzHRUSj4Q44f1JHFPJLu3/z9pPeVtOB2CbFvCSxvvSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\kursi\\.nuget\\packages\\microsoft.codeanalysis.razor\\3.1.5\\microsoft.codeanalysis.razor.3.1.5.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.5\\microsoft.extensions.dependencymodel.3.1.5.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\kursi\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1003\\microsoft.office.interop.word.15.0.4797.1003.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
@@ -21,5 +22,16 @@
     "C:\\Users\\kursi\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „Microsoft.Office.Interop.Word 15.0.4797.1003” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8” zamiast platformy docelowej projektu „.NETCoreApp,Version=v3.1”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "Microsoft.Office.Interop.Word",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

@@ -9,9 +9,10 @@ namespace WordCreator.Models
         {
             using(StreamWriter sw = new StreamWriter("Files/test.txt"))
             {
-                sw.WriteLine(user.Name);
-                sw.WriteLine(user.Surname);
-                sw.WriteLine(user.Time);
+                sw.WriteLine($"Name: {user.Name}");
+                sw.WriteLine($"Surnmae: {user.Surname}");
+                sw.WriteLine($"City: {user.City}");
+                sw.WriteLine($"Date: {user.Time}");
             }
         }
         

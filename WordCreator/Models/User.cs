@@ -15,5 +15,9 @@ namespace WordCreator.Models
         public string ServiceTag { get; set; }
 
         public DateTime Time { get; set; }
+
+        public string AnotherInfo { get; set; }
+
+
     }
 }
