@@ -352,3 +352,4 @@ C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\st
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\WordCreator.dll
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\WordCreator.pdb
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\WordCreator.genruntimeconfig.cache
+C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\Files\test.txt
