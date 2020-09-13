@@ -22,10 +22,6 @@ namespace WordCreator.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            //string file_path = Path.Combine(_appEnvironment.ContentRootPath, "Files/test.txt");
-            //string file_type = "application/txt";
-            //string file_name = "test.txt";
-            //return PhysicalFile(file_path, file_type, file_name);
             return View();
         }
 
@@ -42,5 +38,7 @@ namespace WordCreator.Controllers
             return PhysicalFile(file_path, file_type, file_name);
             //return View("DocumentInfo");
         }
+
+        public IActionResult DataBase() => View();
     }
 }

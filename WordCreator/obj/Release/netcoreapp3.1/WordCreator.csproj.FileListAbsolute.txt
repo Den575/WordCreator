@@ -335,7 +335,6 @@ C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\Wo
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\WordCreator.TagHelpers.input.cache
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\WordCreator.TagHelpers.output.cache
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\WordCreator.RazorCoreGenerate.cache
-C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\Razor\Views\Home\DocumentInfo.cshtml.g.cs
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
@@ -360,3 +359,4 @@ C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\ru
 C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
 C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
 C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\Razor\Views\Home\DataBase.cshtml.g.cs

@@ -359,3 +359,4 @@ C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Debug\netcoreapp3.1\runt
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.csproj.CoreCompileInputs.cache
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\Razor\Views\Home\DataBase.cshtml.g.cs
