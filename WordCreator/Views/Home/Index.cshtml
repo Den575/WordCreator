@@ -38,14 +38,19 @@
                                                          <div class="form-group">
                                                              <label class="control-label col-sm-2" asp-for="Computer">Computer:</label>
                                                              <div class="col-sm-10">
-                                                                 <input type="text" class="form-control" asp-for="Computer" placeholder="Enter computer model">
+                                                                 <select asp-for="Computer" class="form-control">
+                                                                     <option value="Opcja nie została wybrana">Choose a computer</option>
+                                                                     <option value="Lenovo ThinkBook 13s">Lenovo ThinkBook 13s</option>
+                                                                     <option value="HP ElitBook 1030">HP ElitBook 1030</option>
+                                                                     <option value="HP ElitBook 1040">HP ElitBook 1040</option>
+                                                                 </select>
                                                              </div>
                                                          </div>
                                                          <div class="form-group">
                                                              <label class="control-label col-sm-2" asp-for="City">City:</label>
                                                              <div class="col-sm-10">
                                                                  <select asp-for="City" class="form-control">
-                                                                     <option value="">Choose an option</option>
+                                                                     <option value="Opcja nie została wybrana">Choose an option</option>
                                                                      <option value="Krakowie">Kraków</option>
                                                                      <option value="Gdańsku">Gdańsk</option>
                                                                      <option value="Przuszczu Gdańskim">Pruszcz Gdański</option>

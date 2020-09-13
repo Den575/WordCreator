@@ -1,4 +1,0 @@
-Name: Denis
-Surnmae: Kutsenko
-City: Krakowie
-Date: 11.11.0111 00:00:00

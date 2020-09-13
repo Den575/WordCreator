@@ -352,5 +352,11 @@ C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\st
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\WordCreator.dll
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\WordCreator.pdb
 C:\Users\kursi\source\repos\WordCreator\WordCreator\obj\Release\netcoreapp3.1\WordCreator.genruntimeconfig.cache
-C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\Files\test.txt
-C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\Microsoft.Office.Interop.Word.dll
+C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\Files\WZOR.docx
+C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\Aspose.Words.Pdf2Word.dll
+C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\Aspose.Words.dll
+C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\SkiaSharp.dll
+C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\kursi\source\repos\WordCreator\WordCreator\bin\Release\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll

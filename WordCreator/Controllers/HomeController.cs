@@ -32,14 +32,15 @@ namespace WordCreator.Controllers
         [HttpPost]
         public IActionResult Index(User user)
         {
-            CreateTextDocument textDocument = new CreateTextDocument();
-            textDocument.CreateDocument(user);
+            CreateWord createWord = new CreateWord();
+            createWord.Create(user);
 
-            string file_path = Path.Combine(_appEnvironment.ContentRootPath, "Files/test.txt");
-            string file_type = "application/txt";
-            string file_name = "test.txt";
+
+            string file_path = Path.Combine(_appEnvironment.ContentRootPath, $"Files/{user.Name} {user.Surname}.docx");
+            string file_type = "application/docx";
+            string file_name = $"{user.Name} {user.Surname}.docx";
             return PhysicalFile(file_path, file_type, file_name);
-            //return View("DocumentInfo", user);
+            //return View("DocumentInfo");
         }
     }
 }
