@@ -1,12 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD:WordCreator/obj/project.nuget.cache
-  "dgSpecHash": "UamK2KLCM/4h3XuCEwrQ4KP56z7AwTjh2WYkCSCyJwpCSi5PXQWrnVeJ/j+zGTchBvFPZYH+5HGMq2WCzq/AzA==",
-=======
-  "dgSpecHash": "raQWaHNeZBTLKymceW96wHzhQLER7jTvgqs9BVO6fM4GrPQ/+ohiEcBZp/0/kMcSootX+IP0MrZGym5rKejdjA==",
->>>>>>> ca9bdbbfb7a9e480de4612e416d63682d9175881:WordCreator/WordCreator/obj/project.nuget.cache
+  "dgSpecHash": "BV+MupiJ3+RPw5vEMT/+YhRyZQFOu90E2jDpcNLxziKduEcXQvHkuK/ala8udfhz0Y85KO1dity/RL7BXeQ+Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator\\WordCreator.csproj",
+  "projectFilePath": "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator\\WordCreator\\WordCreator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kursi\\.nuget\\packages\\aspose.words\\20.9.0\\aspose.words.20.9.0.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\json.net\\1.0.23\\json.net.1.0.23.nupkg.sha512",
