@@ -1,4 +1,2 @@
 # WordCreator
-C#, ASP . Net Core
-
-Go to the web -> https://wordcreator.azurewebsites.net/
+C#, ASP MVC NetCore, WEB: https://wordcreator.azurewebsites.net/
