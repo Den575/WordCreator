@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator.csproj": {}
+    "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator\\WordCreator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator.csproj": {
+    "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator\\WordCreator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator.csproj",
+        "projectUniqueName": "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator\\WordCreator.csproj",
         "projectName": "WordCreator",
-        "projectPath": "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator.csproj",
+        "projectPath": "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator\\WordCreator.csproj",
         "packagesPath": "C:\\Users\\kursi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\obj\\",
+        "outputPath": "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kursi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,9 +42,17 @@
               "target": "Package",
               "version": "[20.9.0, )"
             },
+            "Json.Net": {
+              "target": "Package",
+              "version": "[1.0.23, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
             }
           },
           "imports": [

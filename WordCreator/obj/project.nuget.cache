@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "V3W9ONo7qCHCB8RMWodco+kALfC6dHnYmdOdkqAmC2+A/miiRIiZvxKLKfJIMp62nm5iSQA3NHi4Mco8zz2UkQ==",
+  "dgSpecHash": "UamK2KLCM/4h3XuCEwrQ4KP56z7AwTjh2WYkCSCyJwpCSi5PXQWrnVeJ/j+zGTchBvFPZYH+5HGMq2WCzq/AzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator.csproj",
+  "projectFilePath": "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator\\WordCreator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kursi\\.nuget\\packages\\aspose.words\\20.9.0\\aspose.words.20.9.0.nupkg.sha512",
+    "C:\\Users\\kursi\\.nuget\\packages\\json.net\\1.0.23\\json.net.1.0.23.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.5\\microsoft.aspnetcore.mvc.razor.extensions.3.1.5.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.5\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.5.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.5\\microsoft.aspnetcore.razor.language.3.1.5.nupkg.sha512",
@@ -16,6 +17,7 @@
     "C:\\Users\\kursi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\kursi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\skiasharp\\2.80.1\\skiasharp.2.80.1.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
     "C:\\Users\\kursi\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
