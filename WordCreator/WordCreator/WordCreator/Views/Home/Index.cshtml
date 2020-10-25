@@ -1,0 +1,70 @@
+﻿@model User
+
+        <div class="container">
+            <h1 class="text-center">Document Creator</h1><br>
+                                                     <form class="form-horizontal" method="post" asp-action="Index">
+                                                         <div class="form-group">
+                                                             <label class="control-label col-sm-2" asp-for="Name">Name:</label>
+                                                             <div class="col-sm-10">
+                                                                 <input type="text" class="form-control" asp-for="Name" placeholder="Enter name">
+                                                             </div>
+                                                         </div>
+                                                         <div class="form-group">
+                                                             <label class="control-label col-sm-2" asp-for="Surname">Surname:</label>
+                                                             <div class="col-sm-10">
+                                                                 <input type="text" class="form-control" asp-for="Surname" placeholder="Enter surname">
+                                                             </div>
+                                                         </div>
+                                                         <div class="form-group">
+                                                             <label class="control-label col-sm-2" asp-for="Position">Position:</label>
+                                                             <div class="col-sm-10">
+                                                                 <input type="text" class="form-control" asp-for="Position" placeholder="Enter position">
+                                                             </div>
+                                                         </div>
+                                                         <div class="form-group">
+                                                             <label class="control-label col-sm-2" asp-for="Computer">Computer:</label>
+                                                             <div class="col-sm-10">
+                                                                 <select asp-for="Computer" class="form-control">
+                                                                     <option value="Opcja nie została wybrana">Choose a computer</option>
+                                                                     <option value="Lenovo ThinkBook 13s">Lenovo ThinkBook 13s</option>
+                                                                     <option value="HP ElitBook 1030">HP ElitBook 1030</option>
+                                                                     <option value="HP ElitBook 1040">HP ElitBook 1040</option>
+                                                                 </select>
+                                                             </div>
+                                                         </div>
+                                                         <div class="form-group">
+                                                             <label class="control-label col-sm-2" asp-for="City">City:</label>
+                                                             <div class="col-sm-10">
+                                                                 <select asp-for="City" class="form-control">
+                                                                     <option value="Opcja nie została wybrana">Choose an option</option>
+                                                                     <option value="Krakowie">Kraków</option>
+                                                                     <option value="Gdańsku">Gdańsk</option>
+                                                                     <option value="Przuszczu Gdańskim">Pruszcz Gdański</option>
+                                                                 </select>
+                                                             </div>
+                                                         </div>
+                                                         <div class="form-group">
+                                                             <label class="control-label col-sm-2" asp-for="ServiceTag">Serice tag:</label>
+                                                             <div class="col-sm-10">
+                                                                 <input type="text" class="form-control" asp-for="ServiceTag" placeholder="Enter service tag">
+                                                             </div>
+                                                         </div>
+                                                         <div class="form-group">
+                                                             <label class="control-label col-sm-2" asp-for="Time">Enter date:</label>
+                                                             <div class="col-sm-10">
+                                                                 <input type="date" asp-for="Time" class="form-control">
+                                                             </div>
+                                                         </div>
+                                                         <div class="form-group">
+                                                             <label class="control-label col-sm-2" asp-for="AnotherInfo">Another:</label>
+                                                                <div class="col-sm-10">
+                                                                     <textarea class="form-control" asp-for="AnotherInfo" rows="3"></textarea>
+                                                                 </div>
+                                                             </div>
+                                                             <div class="form-group">
+                                                                 <div class="col-sm-offset-2 col-sm-10">
+                                                                     <button type="submit" class="btn btn-primary">Create</button>
+                                                                 </div>
+                                                             </div>
+                                                     </form>
+        </div>

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document Creator</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="shortcut icon" href="Royalflushxx-Systematrix-Document.ico" type="image/x-icon">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">LPP</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li><a asp-action="Index">Home</a></li>
+                <li><a asp-action="DataBase">DataBase</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    @RenderBody()
+
+    <br><br><br>
+    <hr />
+    <p class="text-center h6">Copyright © Denys Kutsenko, 2020. Wszystkie prawa zastrzeżone.</p>
+
+</body>
+</html>

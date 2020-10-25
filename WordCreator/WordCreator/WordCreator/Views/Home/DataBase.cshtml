@@ -1,0 +1,34 @@
+﻿@model List<User>
+<div class="container">
+    <h1 class="text-center">Computers</h1>
+    <table class="table table-dark table-hover">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Surname</th>
+                <th>Position</th>
+                <th>Computer</th>
+                <th>City</th>
+                <th>Service tag</th>
+                <th>Date</th>
+                <th>Another info tag</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var u in Model)
+            {
+                <tr>
+                    <td>@u?.Name</td>
+                    <td>@u?.Surname</td>
+                    <td>@u?.Position</td>
+                    <td>@u?.Computer</td>
+                    <td>@u?.City</td>
+                    <td>@u?.ServiceTag</td>
+                    <td>@u?.Time.ToShortDateString()</td>
+                    <td>@u?.AnotherInfo</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a class="btn btn-danger" asp-action="DeleteAll">Delete All</a>
+</div>

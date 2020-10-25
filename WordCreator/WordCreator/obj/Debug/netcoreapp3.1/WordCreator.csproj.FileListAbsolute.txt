@@ -697,9 +697,6 @@ C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\bin\Debug\netcor
 C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.csprojAssemblyReference.cache
 C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.AssemblyInfoInputs.cache
 C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.AssemblyInfo.cs
-C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.csproj.CoreCompileInputs.cache
-C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.RazorAssemblyInfo.cache
 C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.RazorAssemblyInfo.cs
 C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.TagHelpers.input.cache
@@ -722,3 +719,9 @@ C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcor
 C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.dll
 C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.pdb
 C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.genruntimeconfig.cache
+C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.csproj.CoreCompileInputs.cache
+C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\obj\Debug\netcoreapp3.1\WordCreator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kursi\source\repos\WordCreator\WordCreator\WordCreator\bin\Debug\netcoreapp3.1\Files\data.json
