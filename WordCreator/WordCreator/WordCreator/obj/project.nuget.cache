@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD:WordCreator/WordCreator/WordCreator/obj/project.nuget.cache
   "dgSpecHash": "4UWsuUzHZjVSBUCeHA7dz1BLhZto0G4cQgvqPACWQae2zYJYbrzRN4lWHM4Hdm2kfZjX5JP9jReKShuATN5eIQ==",
+=======
+  "dgSpecHash": "BV+MupiJ3+RPw5vEMT/+YhRyZQFOu90E2jDpcNLxziKduEcXQvHkuK/ala8udfhz0Y85KO1dity/RL7BXeQ+Zw==",
+>>>>>>> 0d6683609024543f2120b2df47f115755729f3dc:WordCreator/WordCreator/obj/project.nuget.cache
   "success": true,
   "projectFilePath": "C:\\Users\\kursi\\source\\repos\\WordCreator\\WordCreator\\WordCreator\\WordCreator\\WordCreator.csproj",
   "expectedPackageFiles": [
